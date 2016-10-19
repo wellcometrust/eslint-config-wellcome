@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-wellcome",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Wellcome eslint configuration",
   "main": "index.js",
   "repository": {
@@ -14,7 +14,7 @@
   "author": "David McCormick <d.mccormick@wellcome.ac.uk>",
   "license": "ISC",
   "peerDependencies": {
-    "eslint": ">= 3.8.1"
+    "eslint": ">=3.0.0"
   },
   "dependencies": {
     "eslint-config-standard": "^6.2.0",
