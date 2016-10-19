@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-wellcome",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Wellcome eslint configuration",
   "main": "index.js",
   "repository": {
@@ -17,6 +17,7 @@
     "eslint": ">= 3.8.1"
   },
   "dependencies": {
-    "eslint-config-standard": "^2.0.1"
+    "eslint-config-standard": "^2.0.1",
+    "eslint-plugin-standard": "^2.0.1"
   }
 }
