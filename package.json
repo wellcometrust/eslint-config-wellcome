@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-wellcome",
+  "version": "1.0.0",
+  "description": "Wellcome eslint configuration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wellcometrust/eslint-config-wellcome.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "David McCormick <d.mccormick@wellcome.ac.uk>",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 3.8.1"
+  },
+  "dependencies": {
+    "eslint-plugin-standard": "^2.0.1"
+  }
+}
