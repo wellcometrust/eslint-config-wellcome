@@ -7,7 +7,7 @@ These are the default settings we've chosen for our JavaScript to adhere to with
 Save this package as a dev-dependency:
 
 ```bash
-npm install --save-dev eslint-config-Wellcome
+npm install --save-dev eslint-config-wellcome
 ```
 
 Add an `.eslintrc.json` file to the root directory of your application, containing the following:
